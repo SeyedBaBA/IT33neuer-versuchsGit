@@ -1,2 +1,2 @@
 # IT33neuer-versuchsGit
-Dies ist eine Änderung der gesamten Zeile im feature brach numer 8 ud 8
+Hier findet sich nur ein haufen Buchstaben: jfhdkjfnfkfgj und ein paar nummern 8 und 8
